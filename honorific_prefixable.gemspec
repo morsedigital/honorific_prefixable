@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{ A small helper gem to include honorific_prefices (or 'titles') }
   spec.description   = %q{ A small helper gem to include honorific_prefices (or 'titles') }
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/morsedigital/honorific_prefixable"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
